@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		35FED7F620A8C8DB00FFD3EB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FED7F520A8C8DB00FFD3EB /* main.swift */; };
+		35FED7FD20A8C94600FFD3EB /* request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FED7FC20A8C94600FFD3EB /* request.swift */; };
+		35FED7FF20A8C9B700FFD3EB /* webdriver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FED7FE20A8C9B700FFD3EB /* webdriver.swift */; };
+		35FED80320A8CD9600FFD3EB /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35FED80220A8CD9600FFD3EB /* constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		35FED7F220A8C8DB00FFD3EB /* Swift - WebDriver */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift - WebDriver"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35FED7F520A8C8DB00FFD3EB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		35FED7FC20A8C94600FFD3EB /* request.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = request.swift; sourceTree = "<group>"; };
+		35FED7FE20A8C9B700FFD3EB /* webdriver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webdriver.swift; sourceTree = "<group>"; };
+		35FED80220A8CD9600FFD3EB /* constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				35FED7F520A8C8DB00FFD3EB /* main.swift */,
+				35FED7FC20A8C94600FFD3EB /* request.swift */,
+				35FED7FE20A8C9B700FFD3EB /* webdriver.swift */,
+				35FED80220A8CD9600FFD3EB /* constants.swift */,
 			);
 			path = "Swift - WebDriver";
 			sourceTree = "<group>";
@@ -121,6 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				35FED7F620A8C8DB00FFD3EB /* main.swift in Sources */,
+				35FED7FF20A8C9B700FFD3EB /* webdriver.swift in Sources */,
+				35FED80320A8CD9600FFD3EB /* constants.swift in Sources */,
+				35FED7FD20A8C94600FFD3EB /* request.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
