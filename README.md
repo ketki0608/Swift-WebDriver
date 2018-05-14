@@ -8,6 +8,6 @@ This is WebDriver integration with Swift 4. This requires ChromeDriver to be run
 - Login with username and password
 
 ## References
-https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol
-https://w3c.github.io/webdriver/
-https://developer.apple.com/documentation/foundation/url_loading_system/uploading_data_to_a_website
+1. https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol
+2. https://w3c.github.io/webdriver/
+3. https://developer.apple.com/documentation/foundation/url_loading_system/uploading_data_to_a_website
